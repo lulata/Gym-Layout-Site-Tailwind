@@ -1,3 +1,3 @@
 # Gym-Layout-Site-Tailwind
 
-![Preview](gym.png?raw=true)
+![Preview](gyn.png?raw=true)
